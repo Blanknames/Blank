@@ -1,4 +1,4 @@
-# Genesis project
+# Project-Alpha
 
 Welcome to our Group!
 
